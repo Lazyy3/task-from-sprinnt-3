@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Добавить единицу"; ObjectID = "4Jh-Lw-KrZ"; */
+"4Jh-Lw-KrZ.configuration.title" = "Добавить единицу";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4Jh-Lw-KrZ"; */
+"4Jh-Lw-KrZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Значение счётчика: 0"; ObjectID = "Hpe-Fj-ZTz"; */
+"Hpe-Fj-ZTz.text" = "Значение счётчика: 0";
